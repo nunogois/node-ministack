@@ -9,7 +9,7 @@ Based on my personal portfolio that you can check out here: [http://www.nunogois
 ### Quick Start
 1. Run `npm install` on the project folder to install pre-requisites;
 2. Run `npm start` to start the server;
-3. Browse to [localhost!](localhost);
+3. Browse to [localhost!](http://localhost);
 
 ### Including:
 * [Node.js®](https://nodejs.org);
