@@ -1,4 +1,4 @@
-### node-ministack
+# node-ministack
 
 A mini stack with the essentials to start a new NodeJS project.
 
